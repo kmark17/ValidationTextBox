@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJvrKWWv/s8eBAfaAaOk01yCvN5SSS2T5ARF2KTQMcoEPa8fWcz53hhZ6TR8TYUhXixewYbpfbvaVEH9IsAsgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ee2805\\Documents\\TDK_projects\\Visual Studio\\ValidationExample\\ValidationExample\\ValidationExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ee2805\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\ee2805\\.nuget\\packages\\mahapps.metro\\2.4.9\\mahapps.metro.2.4.9.nupkg.sha512",
+    "C:\\Users\\ee2805\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.1.2\\microsoft.toolkit.mvvm.7.1.2.nupkg.sha512",
+    "C:\\Users\\ee2805\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\ee2805\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
